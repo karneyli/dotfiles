@@ -10,6 +10,7 @@ export HISTSIZE=32768;
 export HISTFILESIZE="${HISTSIZE}";
 export SAVEHIST=4096
 export HISTCONTROL=ignoredups:erasedups
+export PGDATA=/usr/local/var/postgres
 
 # Enable colors
 
