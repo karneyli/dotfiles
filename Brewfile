@@ -29,7 +29,7 @@ brew "libyaml"
 brew "node"
 brew "nvm"
 brew "plantuml"
-brew "postgresql@12"
+brew "postgresql"
 
 brew "rbenv"
 brew "ruby-build"
