@@ -1,5 +1,5 @@
 #!/bin/bash
-alias wolfman="~/Development/wolfman/bin/wolfman"
+alias wolfman="~/Projects/wolfman/bin/wolfman"
 
 # Shortcuts
 
