@@ -7,3 +7,4 @@ rm -rf $DOTFILES_DIR
 
 mkdir -p $HOME/bin
 mkdir -p $HOME/.dotfiles
+

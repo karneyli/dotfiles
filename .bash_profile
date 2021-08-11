@@ -1,6 +1,6 @@
 #!/bin/sh
 DOTFILES_DIR="$HOME/.dotfiles"
-for DOTFILE in "$DOTFILES_DIR"/{function,function_,path,env,alias,grep,prompt,nvm,rbenv}*.sh;
+for DOTFILE in "$DOTFILES_DIR"/{function,function_,path,env,alias,grep,prompt,nvm,rbenv,pyenv}*.sh;
 do
   source $DOTFILE
 done
