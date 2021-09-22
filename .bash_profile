@@ -4,3 +4,5 @@ for DOTFILE in "$DOTFILES_DIR"/{function,function_,path,env,alias,grep,prompt,nv
 do
   source $DOTFILE
 done
+
+source $HOME/.bashrc

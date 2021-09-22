@@ -15,5 +15,6 @@ prepend-path /usr/local/sbin
 prepend-path "$HOME/bin"
 prepend-path "$HOME/.rbenv/bin"
 prepend-path "$HOME/.poetry/bin"
+prepend-path "$HOME/.jenv/bin"
 
 export PATH

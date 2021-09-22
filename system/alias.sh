@@ -10,7 +10,7 @@ alias _="sudo"
 alias json="json -c"
 
 # rm to Trash
-alias rm='safedelete'
+# alias rm='safedelete'
 
 # List declared aliases, functions, paths
 alias aliases="alias | sed 's/=.*//'"

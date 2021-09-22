@@ -15,5 +15,6 @@ set -v
 
 mkdir -p $DOTFILES_DIR
 cp $SYSTEM_DIR/[a-z]*.sh $DOTFILES_DIR/ &> /dev/null
-cp $ROOT_DIR/.bash_profile ~/.bash_profile
+cp $ROOT_DIR/.bash_profile $HOME/.bash_profile
+cp $ROOT_DIR/.bashrc $HOME/.bashrc
 
